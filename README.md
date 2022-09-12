@@ -1,9 +1,8 @@
 # Festival Garden
-Discover your next favorite music Festival. Get started at: [https://festgarden.com](https://festgarden.com)
-
 <p align="center">
   <img height="250" src="https://github.com/duncpro/festival-garden/blob/master/readme-assets/logo.png?raw=true"/>
 </p>
+Discover your next favorite music Festival. Get started at: [https://festgarden.com](https://festgarden.com)
 
 
 
