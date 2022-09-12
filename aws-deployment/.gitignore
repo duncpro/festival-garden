@@ -1,0 +1,4 @@
+# These files are generated during the build process, and need not be commited to the git repository.
+cdk.out
+latest-deployment-cfn-outputs.properties
+latest-deployment-cfn-outputs.json

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9732f776-2674-48cf-8998-72f193a54e29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws-client-deployment/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aws-client-deployment/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Versions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Versions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-api/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-api/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-api/src/main/kotlin/com/duncpro/festivalgarden/restapi/Endpoints.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-api/src/main/kotlin/com/duncpro/festivalgarden/restapi/Endpoints.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/InterchangeMusicFestival.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/InterchangeMusicFestival.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/PersonalizedFestivalRankingsResponseBody.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/PersonalizedFestivalRankingsResponseBody.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/FestivalRankingPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/FestivalRankingPage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/Globe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/Globe.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/UserLand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/UserLand.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local-deployment/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/local-deployment/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/festival-garden-api">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/festival-garden-web-client">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/festival-garden-interchange">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/queue-service-abstraction">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../festival-garden runLocalDatabase">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/festival-wizard-scraper">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/aws-deployment">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/aws-client-deployment">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/local-deployment">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="aws-client-deployment" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="aws-client-deployment" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="aws-client-deployment" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="festival-wizard-scraper" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="festival-wizard-scraper" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="festival-wizard-scraper" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="festival-garden" type="f1a62948:ProjectNode" />
+                <item name="festival-wizard-scraper" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="a59fgfbg" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DH310dCNLE7TP2vcnjhvDF8O9W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="H2&#10;PostgreSQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="javascript.nodejs.core.library.configured.version" value="17.9.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="17.0.45" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spotify-client/src/test/kotlin/com/duncpro/festivalgarden/spotify" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/festival-garden-web-client/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/festival-garden-web-client/src/main/resources" />
+      <recent name="$PROJECT_DIR$/db-auto-maintanince/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/festival-garden-web-client/src/main/resources" />
+      <recent name="$PROJECT_DIR$/buildSrc/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/aws-deployment" />
+      <recent name="$PROJECT_DIR$/local-deployment" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.duncpro.festivalgarden.local" />
+      <recent name="" />
+      <recent name="com.duncpro.festivalgarden.festivalwizardscraper" />
+      <recent name="com.duncpro.festivalgarden.spotify" />
+      <recent name="com.duncpro.festivalgarden.dbmodels" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.duncpro.festivalgarden.spotify" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.hot-reload-web-client">
+    <configuration name="SerializationPlayground.canSerializeMap" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":festival-garden-api:test" />
+            <option value="--tests" />
+            <option value="&quot;com.duncpro.festivalgarden.restapi.SerializationPlayground.canSerializeMap&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.duncpro.festivalgarden.restapi'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":festival-garden-api:test" />
+            <option value="--tests" />
+            <option value="&quot;com.duncpro.festivalgarden.restapi.*&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="festival-garden [runLocalServer]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runLocalServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="festival-garden:aws-client-deployment [deployFrontendCdkStack]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/aws-client-deployment" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deployFrontendCdkStack" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="festival-garden:aws-deployment [deployAwsBackend]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/aws-deployment" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deployAwsBackend" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="festival-garden:festival-wizard-scraper [fillRemoteDatabase]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/festival-wizard-scraper" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fillRemoteDatabase" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Deploy Locally" />
+      <item itemvalue="Gradle.festival-garden [runLocalServer]" />
+      <item itemvalue="Gradle.festival-garden:aws-deployment [deployAwsBackend]" />
+      <item itemvalue="Gradle.festival-garden:aws-client-deployment [deployFrontendCdkStack]" />
+      <item itemvalue="Gradle.festival-garden:festival-wizard-scraper [fillRemoteDatabase]" />
+      <item itemvalue="Gradle.SerializationPlayground.canSerializeMap" />
+      <item itemvalue="Gradle.Tests in 'com.duncpro.festivalgarden.restapi'" />
+      <item itemvalue="Shell Script.hot-reload-web-client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'com.duncpro.festivalgarden.restapi'" />
+        <item itemvalue="Gradle.SerializationPlayground.canSerializeMap" />
+        <item itemvalue="Gradle.festival-garden:aws-client-deployment [deployFrontendCdkStack]" />
+        <item itemvalue="Gradle.festival-garden:aws-deployment [deployAwsBackend]" />
+        <item itemvalue="Gradle.festival-garden:festival-wizard-scraper [fillRemoteDatabase]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9732f776-2674-48cf-8998-72f193a54e29" name="Changes" comment="" />
+      <created>1660341964580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660341964580</updated>
+      <workItem from="1660341965634" duration="360000" />
+      <workItem from="1660342329032" duration="120000" />
+      <workItem from="1660342452018" duration="16000" />
+      <workItem from="1660342482317" duration="224000" />
+      <workItem from="1660342709627" duration="33000" />
+      <workItem from="1660342745531" duration="525000" />
+      <workItem from="1660344019002" duration="3215000" />
+      <workItem from="1660438813989" duration="1445000" />
+      <workItem from="1660440501218" duration="11536000" />
+      <workItem from="1660459052802" duration="377000" />
+      <workItem from="1660459439846" duration="700000" />
+      <workItem from="1660460291845" duration="51000" />
+      <workItem from="1660460684141" duration="1000" />
+      <workItem from="1660460693782" duration="9020000" />
+      <workItem from="1660471341813" duration="3595000" />
+      <workItem from="1660475115232" duration="15950000" />
+      <workItem from="1660521410728" duration="17119000" />
+      <workItem from="1660541726299" duration="6686000" />
+      <workItem from="1660650093969" duration="8839000" />
+      <workItem from="1660678902714" duration="3442000" />
+      <workItem from="1660682359887" duration="11880000" />
+      <workItem from="1660695338143" duration="9373000" />
+      <workItem from="1660713134539" duration="94756000" />
+      <workItem from="1661120957791" duration="1801000" />
+      <workItem from="1661123581450" duration="2362000" />
+      <workItem from="1661128260160" duration="12569000" />
+      <workItem from="1661144363314" duration="71858000" />
+      <workItem from="1661319730899" duration="3114000" />
+      <workItem from="1661361834825" duration="17392000" />
+      <workItem from="1661396104581" duration="47965000" />
+      <workItem from="1661454444095" duration="23410000" />
+      <workItem from="1661482092991" duration="99256000" />
+      <workItem from="1661664823900" duration="735000" />
+      <workItem from="1661665565318" duration="70805000" />
+      <workItem from="1661781761229" duration="18693000" />
+      <workItem from="1661822333541" duration="28277000" />
+      <workItem from="1661913816663" duration="5028000" />
+      <workItem from="1661920399377" duration="16879000" />
+      <workItem from="1661937685322" duration="49409000" />
+      <workItem from="1662100987252" duration="6791000" />
+      <workItem from="1662154818922" duration="47000" />
+      <workItem from="1662154893087" duration="2305000" />
+      <workItem from="1662267458173" duration="479000" />
+      <workItem from="1662267976368" duration="82000" />
+      <workItem from="1662333993347" duration="18000" />
+      <workItem from="1662990095227" duration="719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

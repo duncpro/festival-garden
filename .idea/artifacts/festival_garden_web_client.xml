@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="festival-garden-web-client">
+    <output-path>$PROJECT_DIR$/festival-garden-web-client/build/libs</output-path>
+    <root id="archive" name="festival-garden-web-client.jar">
+      <element id="module-output" name="festival-garden.festival-garden-web-client.main" />
+    </root>
+  </artifact>
+</component>

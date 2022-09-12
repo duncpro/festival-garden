@@ -1,0 +1,12 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+./festival-wizard-scraper/src/test/resources/config.json
+
+kotlin-js-store
+
+local-deployment/local-testing-database.mv.db
+local-deployment/local-testing-database.trace.db

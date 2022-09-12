@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deploy Locally" type="CompoundRunConfigurationType">
+    <toRun name="festival-garden [runLocalServer]" type="GradleRunConfiguration" />
+    <toRun name="hot-reload-web-client" type="ShConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

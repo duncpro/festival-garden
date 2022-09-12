@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    position: fixed;
+    overflow: hidden;
+}
+
+a {
+    color: inherit;
+}
+
+button {
+    color: inherit;
+}
+
+div, button, img, h1, h2, h3, svg, canvas {
+    touch-action: pan-y pan-x;
+    user-select: none;
+    -webkit-touch-callout: none;
+}
