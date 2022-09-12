@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/duncpro/festival-garden/blob/master/readme-assets/logo.png?raw=true"/>
+</p>
+
 # Festival Garden
 Discover your next favorite music Festival.
 

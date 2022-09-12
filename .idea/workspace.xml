@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9732f776-2674-48cf-8998-72f193a54e29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aws-client-deployment/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aws-client-deployment/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Versions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/Versions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-api/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-api/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-api/src/main/kotlin/com/duncpro/festivalgarden/restapi/Endpoints.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-api/src/main/kotlin/com/duncpro/festivalgarden/restapi/Endpoints.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/InterchangeMusicFestival.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/InterchangeMusicFestival.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/PersonalizedFestivalRankingsResponseBody.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-interchange/src/commonMain/kotlin/com.duncpro.festivalgarden.interchange/PersonalizedFestivalRankingsResponseBody.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/FestivalRankingPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/FestivalRankingPage.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/Globe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/Globe.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/UserLand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/festival-garden-web-client/src/main/kotlin/UserLand.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local-deployment/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/local-deployment/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme-assets/demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme-assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,11 +173,11 @@
       <recent name="$PROJECT_DIR$/db-auto-maintanince/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/readme-assets" />
       <recent name="$PROJECT_DIR$/festival-garden-web-client/src/main/resources" />
       <recent name="$PROJECT_DIR$/buildSrc/src/main/kotlin" />
       <recent name="$PROJECT_DIR$/aws-deployment" />
       <recent name="$PROJECT_DIR$/local-deployment" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -416,7 +408,7 @@
       <workItem from="1662267458173" duration="479000" />
       <workItem from="1662267976368" duration="82000" />
       <workItem from="1662333993347" duration="18000" />
-      <workItem from="1662990095227" duration="719000" />
+      <workItem from="1662990095227" duration="1046000" />
     </task>
     <servers />
   </component>
