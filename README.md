@@ -4,9 +4,6 @@
 </p>
 Discover your next favorite music Festival.
 
-Pull requests welcome, and feel free to fork.
-
-Festival Garden is deployed publicly on AWS and can be found at [https://festgarden.com](https://festgarden.com).
 You can also checkout the Git Repo and deploy Festival Garden locally on your own machine using
 the `local-deployment` Gradle module included in this repo. NOTE: You'll need to generate your own Spotify Developer Auth Key at
 `https://spotify.com` to deploy Festival Garden yourself.
